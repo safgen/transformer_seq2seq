@@ -1,3 +1,6 @@
+from prepare_data import tokenizer_en, tokenizer_pt
+
+
 num_layers = 4
 d_model = 128
 dff = 512
