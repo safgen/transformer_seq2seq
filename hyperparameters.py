@@ -1,7 +1,7 @@
 from prepare_data import tokenizer_en, tokenizer_pt
 
 
-num_layers = 4
+num_layers = 6
 d_model = 128
 dff = 512
 num_heads = 8
